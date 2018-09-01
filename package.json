@@ -1,0 +1,8 @@
+{
+  "name": "seo-webpack-plugin",
+  "keywords": ["SEO", "webpack", "plugin", "chrome", "render"],
+  "version": "1.0.0",
+  "dependencies": {
+    "chrome-render": "^1.4.1"
+  }
+}
